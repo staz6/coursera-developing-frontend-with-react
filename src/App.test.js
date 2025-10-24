@@ -1,8 +1,11 @@
+import React from 'react';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+// Simple test to verify the app renders without crashing
+test('renders Paradise Nursery app', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  
+  // Check if the header with company name is present
+  expect(screen.getByText('🌿 Paradise Nursery')).toBeInTheDocument();
 });
