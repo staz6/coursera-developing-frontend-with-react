@@ -1,4 +1,5 @@
 // Product data for Paradise Nursery
+
 export const products = [
   // Succulents Category
   {
