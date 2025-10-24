@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coursera-developing-frontend-with-react/static/css/main.e086cd78.css",
+    "main.js": "/coursera-developing-frontend-with-react/static/js/main.12426dce.js",
+    "static/js/453.4748d9da.chunk.js": "/coursera-developing-frontend-with-react/static/js/453.4748d9da.chunk.js",
+    "index.html": "/coursera-developing-frontend-with-react/index.html",
+    "main.e086cd78.css.map": "/coursera-developing-frontend-with-react/static/css/main.e086cd78.css.map",
+    "main.12426dce.js.map": "/coursera-developing-frontend-with-react/static/js/main.12426dce.js.map",
+    "453.4748d9da.chunk.js.map": "/coursera-developing-frontend-with-react/static/js/453.4748d9da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e086cd78.css",
+    "static/js/main.12426dce.js"
+  ]
+}
